@@ -835,7 +835,7 @@ Last change:	15/08/2022
 	}
 	
 	.small {
-		max-width:820px;
+/*		max-width:820px;*/
 		width:100%;
 		margin:0 auto;
 	}
@@ -853,9 +853,9 @@ Last change:	15/08/2022
 		width: 100vw!important;
 	}
 	
-	.row_padding_top {
+/*	.row_padding_top {
 		padding-top:9vw;
-	}
+	}*/
 	
 	.row_padding_bottom {
 		padding-bottom:9vw;
